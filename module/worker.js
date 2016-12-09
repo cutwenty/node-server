@@ -8,9 +8,12 @@ const config = require('../config');
 // const mongoose = require("mongoose");
 // const db = mongoose.connect(appConfig.config.mongodb);
 
+// 使用中间件，全局的中间件
+const middleware = require('../middleware');
+middleware(app);
+
 //使用自定义的路由模块
 const routers = require('../router');
-
 routers(app);
 
 app.use('/', express.static(config.home));

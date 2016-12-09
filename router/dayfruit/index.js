@@ -1,7 +1,8 @@
 // 使用子路由，命名规则要加上Router
 const subRouters = [
   // apiRouter.js
-  'api'
+  'api',
+  'images'
 ];
 const home = '/home/hxhgta/app/dayfruit';
 

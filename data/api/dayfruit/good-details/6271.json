@@ -1,0 +1,15 @@
+{
+  "id": 6271,
+  "name": "佳沛新西兰绿奇异果(巨无霸)",
+  "thumbnail": "/images/huang/img-15.jpg",
+  "guige": 6,
+  "price": 45.0,
+  "discount": 39.9,
+  "banners": ["/dayfruit/images/huang/img-01.jpg", "/dayfruit/images/huang/img-02.jpg", "/dayfruit/images/huang/img-03.jpg"],
+  "detailImgs": ["/dayfruit/images/huang/img-04.gif", "/dayfruit/images/huang/img-05.gif", "/dayfruit/images/huang/img-06.gif", "/dayfruit/images/huang/img-07.gif", "/dayfruit/images/huang/img-08.gif", "/dayfruit/images/huang/img-09.gif", "/dayfruit/images/huang/img-10.gif"],
+  "envalue": {
+    "good": "90%",
+    "normal": "9%",
+    "bad": "1%"
+  }
+}
