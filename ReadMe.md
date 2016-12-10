@@ -1,6 +1,8 @@
 # node-server
 这是我腾讯云 node 服务器的代码，服务器是 ubuntu 14.04 系统，不得不说 ubuntu 真是很好用的 linux 系统。
 
+服务器使用 express 打开服务，forever 管理 node 进程，bunyan 输出日志。
+
 ## 配置
 
 node_modules 安装可以用
@@ -35,3 +37,6 @@ node_modules 安装可以用
 ## 添加数据
 
 其他的 数据文件 像图片、json，可以放在 data 文件夹下。自己通过路由访问。
+
+## 日志功能
+使用 [node-bunyan](https://github.com/trentm/node-bunyan/)。。。

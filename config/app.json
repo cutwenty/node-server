@@ -1,9 +1,8 @@
 {
   "uid": "app",
   "append": true,
+  "watch": true,
   "script": "app.js",
-  "logFile": "forever.log",
-  "outFile": "./log/app_out.log",
-  "errFile": "./log/app_err.log",
+  "logFile": "app_forever.log",
   "sourceDir": "/home/hxhgta/server/node"
 }
