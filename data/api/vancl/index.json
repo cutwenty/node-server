@@ -1,0 +1,162 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "width": 640,
+      "height": 402,
+      "img": "http://www.cutwenty.com/vancl/image/banner1.jpg"
+    },
+    {
+      "width": 640,
+      "height": 402,
+      "img": "http://www.cutwenty.com/vancl/image/banner2.jpg"
+    },
+    {
+      "width": 640,
+      "height": 402,
+      "img": "http://www.cutwenty.com/vancl/image/banner3.jpg"
+    },
+    {
+      "width": 640,
+      "height": 402,
+      "img": "http://www.cutwenty.com/vancl/image/banner4.jpg"
+    },
+    {
+      "width": 640,
+      "height": 402,
+      "img": "http://www.cutwenty.com/vancl/image/banner5.jpg"
+    },
+    {
+      "width": 640,
+      "height": 402,
+      "img": "http://www.cutwenty.com/vancl/image/banner6.jpg"
+    },
+        {
+      "width": 640,
+      "height": 402,
+      "img": "http://www.cutwenty.com/vancl/image/banner7.jpg"
+    }
+  ],
+  "activities": [
+    {
+      "width": 640,
+      "height": 60,
+      "img": "http://www.cutwenty.com/vancl/image/banner8.jpg"
+    },
+    {
+      "width": 640,
+      "height": 80,
+      "img": "http://www.cutwenty.com/vancl/image/banner9.jpg"
+    },
+    {
+      "width": 640,
+      "height": 60,
+      "img": "http://www.cutwenty.com/vancl/image/banner10.jpg"
+    }
+  ],
+  "goodSection": [
+    {
+      "sectionType": 1,
+      "goodList": [
+        {"img": "http://www.cutwenty.com/vancl/image/img-001.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-002.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-003.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-004.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-001.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-002.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-003.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-004.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-001.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-002.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-003.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-004.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-001.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-002.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-003.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-004.jpg"}
+      ]
+    },
+    {
+      "sectionType": 2,
+      "sectionHead": {
+        "width": 640,
+        "height": 80,
+        "img": "http://www.cutwenty.com/vancl/image/banner11.jpg"
+      },
+      "goodList": [
+        {"img": "http://www.cutwenty.com/vancl/image/img-005.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-006.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-007.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-008.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-005.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-006.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-007.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-008.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-005.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-006.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-007.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-008.jpg"}
+      ]
+    },
+    {
+      "sectionType": 3,
+      "sectionHead": {
+        "width": 640,
+        "height": 80,
+        "img": "http://www.cutwenty.com/vancl/image/banner12.jpg"
+      },
+      "sectionBanner": {
+        "width": 640,
+        "height": 310,
+        "img": "http://www.cutwenty.com/vancl/image/banner13.jpg"
+      },
+      "goodList": [
+        {"img": "http://www.cutwenty.com/vancl/image/img-009.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-010.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-011.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-012.jpg"}
+      ]
+    },
+    {
+      "sectionType": 3,
+      "sectionHead": {
+        "width": 640,
+        "height": 80,
+        "img": "http://www.cutwenty.com/vancl/image/banner14.jpg"
+      },
+      "sectionBanner": {
+        "width": 640,
+        "height": 310,
+        "img": "http://www.cutwenty.com/vancl/image/banner15.jpg"
+      },
+      "goodList": [
+        {"img": "http://www.cutwenty.com/vancl/image/img-009.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-010.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-011.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-012.jpg"}
+      ]
+    },
+    {
+      "sectionType": 3,
+      "sectionHead": {
+        "width": 640,
+        "height": 80,
+        "img": "http://www.cutwenty.com/vancl/image/banner16.jpg"
+      },
+      "sectionBanner": {
+        "width": 640,
+        "height": 310,
+        "img": "http://www.cutwenty.com/vancl/image/banner17.jpg"
+      },
+      "goodList": [
+        {"img": "http://www.cutwenty.com/vancl/image/img-009.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-010.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-011.jpg"},
+        {"img": "http://www.cutwenty.com/vancl/image/img-012.jpg"}
+      ]
+    }
+  ]
+
+
+
+}

@@ -1,0 +1,121 @@
+{
+  "status": 200,
+  "categorys": [
+    {
+      "title": "推荐",
+      "goods": [
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"}
+      ]
+    },
+    {
+      "title": "男装",
+      "goods": [
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"}
+      ]
+    },
+    {
+      "title": "女装",
+      "goods": [
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"}
+      ]
+    },
+    {
+      "title": "男鞋",
+      "goods": [
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"}
+      ]
+    },
+    {
+      "title": "女鞋",
+      "goods": [
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"}
+      ]
+    },
+    {
+      "title": "袜品",
+      "goods": [
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"}
+      ]
+    },
+    {
+      "title": "家居",
+      "goods": [
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "西服", "img": "http://www.cutwenty.com/vancl/image/img-013.jpg"},
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"}
+      ]
+    },
+    {
+      "title": "童装",
+      "goods": [
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"}
+      ]
+    },
+    {
+      "title": "内衣",
+      "goods": [
+        {"name": "羽绒服", "img": "http://www.cutwenty.com/vancl/image/img-014.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"},
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"}
+      ]
+    },
+    {
+      "title": "配饰",
+      "goods": [
+        {"name": "大衣", "img": "http://www.cutwenty.com/vancl/image/img-015.jpg"}
+      ]
+    }
+  ]
+}
