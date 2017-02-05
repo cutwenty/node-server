@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 data/image
 data/font
 node_modules
+=======
+node_modules/
+data/image
+data/font
+>>>>>>> 5412bc509fb0d52b63b72c42f0cd8045b2be9c42
