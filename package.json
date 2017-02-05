@@ -1,0 +1,18 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "sudo forever start ./config/app.json",
+    "stop": "sudo forever stop app"
+  },
+  "dependencies": {
+    "bunyan": "^1.8.5",
+    "express": "^4.14.0",
+    "forever": "^0.15.3",
+    "multer": "^1.2.0"
+  },
+  "devDependencies": {
+  }
+}
